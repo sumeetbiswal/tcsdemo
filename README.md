@@ -1,3 +1,1 @@
-# Sample Application for AWS DevOps Course
-
-#updated this file
+# aws_codedeploy_using_github
